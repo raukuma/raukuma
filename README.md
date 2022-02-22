@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Raushan
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... RuleEngine to have complex restriciton in any Accelarator(B2B,B2C) in SAP Commerce Cloud.
 - 🌱 I’m currently learning ... GCP and REACT
