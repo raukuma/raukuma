@@ -16,3 +16,4 @@
       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
   </a>
 </p>
+<iframe src="https://github.com/sponsors/raukuma/button" title="Sponsor raukuma" height="35" width="116" style="border: 0;"></iframe>
