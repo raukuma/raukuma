@@ -10,9 +10,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p>
-  <div class="contra-hire-me-button" data-analyticsUserId="b92d4740-e4d9-4e7a-98c8-4921fda301a6" data-theme="light" data-username="raukumaanz_8aekaf5u"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
-</p>
+
 <p>
   <a href="https://paypal.me/Raushan816/10">
       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
